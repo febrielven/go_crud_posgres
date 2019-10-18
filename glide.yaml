@@ -1,0 +1,4 @@
+package: github.com/febrielven/go_crud_posgres
+import:
+- package: github.com/lib/pq
+  version: ~1.2.0
